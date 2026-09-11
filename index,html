@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>roseaviah's Personal Site</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Hi, I'm roseaviah! 👋</h1>
+    <p>Student • Beginner Programmer • Future CS Student</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <p>
+        I'm a student from earth learning programming,
+        web development, and computer science.
+      </p>
+    </section>
+
+    <section>
+      <h2>My Learning Journey</h2>
+      <p>
+        I'm currently learning HTML, CSS, JavaScript,
+        and building my first personal website.
+      </p>
+    </section>
+
+    <section>
+      <h2>My Goals</h2>
+      <ul>
+        <li>Learn programming</li>
+        <li>Build useful projects</li>
+        <li>Explore computer science</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>Built with curiosity and code ✨</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
